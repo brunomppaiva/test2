@@ -2,3 +2,4 @@
 
 ## Salvando alterações no Git 2a
 *uso do commando restore
+*uso do comando git pull
